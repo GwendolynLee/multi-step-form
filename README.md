@@ -1,2 +1,2 @@
 # multi-step-form
-Front end form showing number of pages on form
+Form with mutliple pages and with a progress bar at the top.  Front-end technologies only - HTML, CSS, JS.  (With help from Great Stack tutorials)
